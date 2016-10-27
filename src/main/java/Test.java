@@ -42,6 +42,7 @@ public class Test {
                             System.out.println("加：" + i+" "+j+" "+n);
                         }
                     }
+
                     if (b == 24) {
                         if (!list.contains(a)) {
                             list.add(a);
